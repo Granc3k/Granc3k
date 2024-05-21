@@ -1,6 +1,6 @@
 <h1 align="center">Hi all, I'm Granc3k</h1>
 
-<h3 align="center">21 yearrs old student of IT from Czechia</h3>
+<h3 align="center">21 years old student from Czechia</h3>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=Granc3k&label=Profile%20views&color=0e75b6&style=flat" alt="Granc3k" />
