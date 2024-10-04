@@ -12,7 +12,7 @@
 
 - 💻 I am currently studying at Technical University of Liberec in the field of IT and aplicable IT.
 - 👨‍💻 All of my projects are pinned here on github
-- 📄 For further questions send an email.
+- 📄 For further questions message me via email || Instagram || Discord.
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
