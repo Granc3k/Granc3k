@@ -63,7 +63,6 @@
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Granc3k&theme=react&border=61dafb&hide_border=true" alt="Granc3k" />
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Granc3k&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
