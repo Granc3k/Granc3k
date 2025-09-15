@@ -1,6 +1,6 @@
 <h1 align="center">Hi all, I'm Granc3k</h1>
 
-<h3 align="center">21 years old student from Czechia</h3>
+<h3 align="center">22 years old student from Czechia</h3>
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=Granc3k&label=Profile%20views&color=0e75b6&style=flat" alt="Granc3k" />
@@ -10,7 +10,8 @@
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- 💻 I am currently studying at Technical University of Liberec in the field of IT and aplicable IT.
+- 🎓 I hold a Bachelor's degree in IT and Applied IT from the Faculty of Mechatronics, Technical University of Liberec.
+- 💻 I am currently pursuing a Master's degree in Software Engineering and IT at the Technical University of Liberec.
 - 👨‍💻 All of my projects are pinned here on github
 - 📄 For further questions message me via email || Instagram || Discord.
 
